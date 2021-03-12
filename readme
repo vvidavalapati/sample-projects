@@ -1,0 +1,5 @@
+1. npm install -> To install required dependencies
+2. npm start -> To start the app
+3. http://localhost:3000/api/v1/commissions/get - Paste this link in browser and press enter. This API will give list of commissions.
+4. http://localhost:3000/api/v1/commissions/csv - This API downloads commissions in CSV file.
+5. http://localhost:3000/api/v1/commissions/pdf - This API downloads commissions in PDF file.
